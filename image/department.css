@@ -1,0 +1,29 @@
+body{
+
+  background-size: cover;
+}
+img{
+background-size: cover;
+}
+.div{
+border: 1px   black solid;
+margin-left: 2px;
+background-color: #33ccff;
+}
+.div1
+{
+
+border: 1px green solid;
+}
+
+.nav{
+position: fixed;
+top: 0;
+/* background-color: black; */
+}
+.a,.tr,.h,.li{
+text-align: center;
+}
+.w{
+weidth:50px;
+}
