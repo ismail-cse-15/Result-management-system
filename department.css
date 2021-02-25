@@ -1,0 +1,45 @@
+/* body{
+
+  background-size: cover;
+} */
+
+.div{
+border: 1px   black solid;
+margin-left: 2px;
+background-color: #33ccff;
+}
+.div1
+{
+
+border: 1px green solid;
+margin: 16px;
+}
+
+
+/* .a,.tr,.h,.li{
+text-align: center;
+} */
+.w{
+weidth:50px;
+}
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: red;
+    color: white;
+    text-align: center;
+}
+.left{
+  bottom: 0pt;
+  left: 0pt;
+  margin:5px;
+  position:fixed;
+}
+.right{
+  bottom: 0pt;
+  right: 0pt;
+  margin:5px;
+  position:fixed;
+}
